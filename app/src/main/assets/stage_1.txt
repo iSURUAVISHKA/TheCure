@@ -1,0 +1,10 @@
+water
+book
+car
+family
+fish
+food
+girl
+go
+happy
+love

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheCure</string>
+    <string name="attempts_format">Attempts : %1$d</string>
+    <string name="attempts_left_format">Attempts Left : %1$d</string>
+    <string name="correct_format">Correct : %1$d</string>
+    <string name="incorrect_format">Incorrect : %1$d</string>
+    <string name="test_format">Test : %1$d</string>
+    <string name="draw_the_number_format">Draw %1$s</string>
+    <string name="time_format">Time : %1$s</string>
+    <string name="percentage_format">Percentage %1$d : %2$s</string>
+</resources>

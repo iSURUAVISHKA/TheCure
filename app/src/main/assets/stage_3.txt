@@ -1,0 +1,8 @@
+damage
+pickup
+puzzle
+apple
+goat
+ten
+stop
+dark
